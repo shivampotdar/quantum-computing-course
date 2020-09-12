@@ -3,4 +3,4 @@ Course Material for the online short course 'Practical Quantum Computing using Q
 
 ## Table of Contents
 
-TBD
+1. [Brief Python 3 review](intro_python.ipynb)
